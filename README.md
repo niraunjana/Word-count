@@ -29,10 +29,10 @@ for i in f:
 word=i.split()
 num_word+=len(word)
 print("number of words ={}".format(num_word)
+
+```
 ### OUTPUT:
 ![image](https://user-images.githubusercontent.com/119395610/214826479-3cb1bccd-6543-4421-a1d3-e3852abb8a9c.png)
-```
-
 
 
 ## RESULT:
